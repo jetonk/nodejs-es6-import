@@ -1,6 +1,6 @@
 # NodeJS/ExpressJS ES6 import class
 
-## Do you get <span style="color:red">SyntaxError: Unexpected token import</span> When you try to use `import` keyword? : You are in the right place.
+## Do you get <span style="color:red">SyntaxError: Unexpected token import</span> when you try to use `import` keyword? : You are in the right place.
 
 ## This is a minimal setup Node with Express importing ES6 class in a ES6 way using `import` keyword
 
