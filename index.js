@@ -1,7 +1,7 @@
-const express = require('express');
+import express from 'express';
+import MainService from './services/MainService';
 const app = express();
 const port = 3000;
-import MainService from './services/MainService';
 
 const mainService = new MainService();
 app.get('/', mainService.get);
