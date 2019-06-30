@@ -1,0 +1,36 @@
+{
+  "name": "nodejs-es6-import",
+  "version": "1.0.0",
+  "description": "NodeJS ES6 Import, minimal setup with ExpressJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jetonk/nodejs-es6-import.git"
+  },
+  "keywords": [
+    "nodejs",
+    "es6",
+    "import",
+    "expressjs"
+  ],
+  "author": "Jeton Kadrija",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetonk/nodejs-es6-import/issues"
+  },
+  "homepage": "https://github.com/jetonk/nodejs-es6-import#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/plugin-transform-runtime": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/register": "^7.4.4",
+    "@babel/runtime": "^7.4.4"
+  }
+}
