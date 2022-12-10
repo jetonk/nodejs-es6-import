@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/jetonk/nodejs-es6-import#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
